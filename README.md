@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there,I'm Vijayalaxmi 👋
 
-<h1>Java Full Stack</h1>
+<h1>Java Full Stack Developer</h1>
